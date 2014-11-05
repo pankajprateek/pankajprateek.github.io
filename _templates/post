@@ -4,6 +4,7 @@ title: {{ title }}
 modified:
 categories: {{ dir }}
 excerpt:
+type:
 tags: []
 image:
   feature:
