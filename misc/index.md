@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About Me
+title: Theme Setup
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: ""
+excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+image:
+  feature: sample-image-3.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Hi! I am Pankaj Prateek, a student in the [Department of Computer Science and Engineering](http://cse.iitk.ac.in) at [IIT Kanpur](http://iitk.ac.in), pursuing a combined undergraduate and masters (B.Tech-M.Tech) program.
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-My master's thesis is being supervised by [Prof. Shashank K. Mehta](http://cse.iitk.ac.in/users/skmehta). We are working in the field of approximation algorithms, specifically on finding good approximation algorithms for common subtree and related problems.
-
-<!--- ## Installation
+## Installation
 
 Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
 
@@ -297,4 +307,4 @@ Found a bug or aren't quite sure how something works? By all means Ping me on Tw
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. -->
+This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 

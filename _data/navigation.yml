@@ -1,7 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+# - title: About Me
+  # url: /about/
+
+- title: Academics
+  url: /acads/
+
+- title: Projects
+  url: /projects/
+
+- title: Misc
+  url: /misc/
 
 # - title: Sample Posts
   # url: /posts/

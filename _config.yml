@@ -8,7 +8,7 @@ url:              http://localhost:4000
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    redcarpet # kramdown
+markdown:    kramdown # redcarpet # kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -31,10 +31,10 @@ owner:
   bio: "A lazy Computer G33k, Programmer, Linux Enthusiast, Blogger, Tech Savvy, Foodophile"
   email: pankaj200292@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: pankaj_prateek
+  facebook: pankaj.prateek
   google:
-    plus: #username
+    plus: pankaj200292
     analytics: 
     verify: 
     ad-client: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: pankajprateek
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: pankajprateek
   instagram: #username
   lastfm: #username
   tumblr: #username
