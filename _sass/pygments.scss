@@ -4,11 +4,12 @@
 	@include font(12);
 	color: #333332;
 	margin-bottom: 1.5em;
+	margin-top: -1em;
 	@include rounded(4px);
 	pre {
 		position: relative;
 		margin: 0;
-		padding: 1em;
+		padding: 0em 1em;
 	}
 	.lineno { padding-right: 24px; color: lighten(#333332,50);}
 	.hll { background-color: #ffffcc }
