@@ -394,5 +394,26 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
     margin-bottom: 1.5em;
-    width: 100%; /* make full width */
+    /* width: 100%;  make full width */
+}
+
+td {
+   /* font-family: Arial, sans-serif;
+   font-size: 14px; */
+   padding: 5px 5px;
+   border-style: solid;
+   border-width: 1px;
+   overflow: hidden;
+   word-break: normal;
+}
+
+th {
+   /* font-family: Arial, sans-serif;
+   font-size: 14px;
+   font-weight: normal; */
+   padding: 5px 5px;
+   border-style: solid;
+   border-width: 1px;
+   overflow: hidden;
+   word-break: normal;
 }
