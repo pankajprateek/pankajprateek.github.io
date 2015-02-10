@@ -12,7 +12,9 @@ IIT Kanpur
 Kanpur - 208016  
 India
 
-<br/>Alternatively you can email me at {% highlight bash %}
+<br/>Alternatively you can email me at
+
+{% highlight bash %}
 echo pankaj200292.gmail.com | sed 's/\./@/'
 echo pratikkr.cse.iitk.ac.in | sed 's/\./@/'
 {% endhighlight %}
