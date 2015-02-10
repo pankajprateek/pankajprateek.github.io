@@ -7,7 +7,7 @@ excerpt: ""
 
 Hi! I am Pankaj Prateek, a student in the [Department of Computer Science and Engineering](http://cse.iitk.ac.in) at [IIT Kanpur](http://iitk.ac.in), pursuing a combined undergraduate and masters (B.Tech-M.Tech) program.
 
-My master's thesis is being supervised by [Prof. Shashank K. Mehta](http://cse.iitk.ac.in/users/skmehta). We are working in the field of approximation algorithms, specifically on finding good approximation algorithms for common subtree and related problems.
+<br/>My master's thesis is being supervised by [Prof. Shashank K. Mehta](http://cse.iitk.ac.in/users/skmehta). We are working in the field of approximation algorithms, specifically on finding good approximation algorithms for common subtree and related problems.
 
 <!--- ## Installation
 
